@@ -61,6 +61,7 @@ This list is intended for developers, marketers, researchers, and content creato
 - [Hootsuite](https://hootsuite.com/) – Multi-platform social media management tool supporting Facebook.
 - [Buffer](https://buffer.com/) – Social media scheduling and analytics platform.
 - [Zapier Facebook Integrations](https://zapier.com/apps/facebook/integrations) – Automate workflows between Facebook and other services.
+- [Cyber Collector](https://t.me/cybercollectorbot) – Free Telegram bot for downloading TikTok (no watermark), Instagram Reels/Stories, YouTube+Shorts, X/Twitter, Facebook videos. No signup, no ads. [Website](https://cybercollector.hitkey.io)
 
 ## Communities & Forums
 
